@@ -5,3 +5,9 @@ Must install OpenCV current version
 ```
 pip install opencv-python
 ```
+
+Then run the .py script 
+(Must be in the same directory as the .xml profile)
+```
+faceDetection.py
+```
