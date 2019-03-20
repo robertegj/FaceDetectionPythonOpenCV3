@@ -14,3 +14,5 @@ Then run the .py script
 ```
 faceDetection.py
 ```
+
+![alt text](https://github.com/robertegj/FaceDetectionPythonOpenCV3/blob/master/Screenshot.jpg?raw=true)
