@@ -4,6 +4,8 @@ Ported the commonly used OpenCV2 Face Detection script to OpenCV3, works on curr
 
 ## Detect Faces from a live Webcam Feed using OpenCV
 
+INSTALL INSTRUCTIONS
+
 Must install OpenCV current version
 ```
 pip install opencv-python
