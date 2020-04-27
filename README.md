@@ -16,5 +16,5 @@ Then run the .py script
 ```
 faceDetection.py
 ```
-Screenshot of Facial Detection in use:
+Screenshot of Facial Detection in use:  
 ![issa me, robertio](https://github.com/robertegj/FaceDetectionPythonOpenCV3/blob/master/Screenshot.jpg?raw=true)
